@@ -1,5 +1,5 @@
 <?php
 
-	echo "Hellow Hord!";
+	echo "Olá Fanto!";
 
 ?>
